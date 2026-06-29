@@ -253,27 +253,6 @@ h3 { font-size: 14px; line-height: 150%; }
 	display: block;
 }
 
-.view_all {
-	font-size: 15px;
-	margin-right: 1px;
-}
-
-.view_all a {
-	color: #000;
-	text-decoration: none;
-}
-
-.view_all a:hover {
-	color: #000;
-	border-bottom: 1px solid #000;
-	padding-bottom: 1px;
-}
-
-.view_all a:active {
-	color: #666;
-	border-bottom: 1px solid #666;
-}
-
 img {
 	border: 0;
 	padding: 0;
